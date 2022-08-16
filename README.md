@@ -2,5 +2,5 @@
 
 ## Recriando a página inicial do Instagram
 
-### projeto de aula da DIO
+### Aula prática DIO
  
