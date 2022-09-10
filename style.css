@@ -32,6 +32,10 @@ body{
     justify-content: center;
     width: 50%;
 }
+    .group{
+        border: 1px solid transparent;
+    }
+}
 
 .instagram-phone img{
     height: 50rem;
