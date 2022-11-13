@@ -2,5 +2,5 @@
 
 ## Recriando a página inicial do Instagram
 
-### Aula prática da DIO
+### Aula prática do bootcamp da DIO
  
